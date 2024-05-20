@@ -30,13 +30,13 @@ In other words, **the company wants to understand the driving factors (or driver
 
 ## Approach :
 
- Step 1: Data Understanding
- Step 2: Data Cleaning and Outlier Treatment
- Step 3: Segmentation of Variables
- Step 4: Segemented Univariate Analysis
- Step 5: Bivaraiate Analysis
- Step 6: Multivariate Analysis
- Step 5: Results , Inferences and Recommendations
+- Step 1: Data Understanding
+- Step 2: Data Cleaning and Outlier Treatment
+- Step 3: Segmentation of Variables
+- Step 4: Segemented Univariate Analysis
+- Step 5: Bivaraiate Analysis
+- Step 6: Multivariate Analysis
+- Step 5: Results , Inferences and Recommendations
 
 ## Technologies Used :
 - python           : 3.11.5 
