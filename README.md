@@ -83,7 +83,7 @@ In other words, **the company wants to understand the driving factors (or driver
 ## Acknowledgements :
 
 - The project reference course materieals from upGrads curriculm 
-- The project references insights and inferences from presentation in upgrad live class given by [Shivam Garg]( https://www.linkedin.com/in/shivam-garg-0494a2ab )
+- The project references insights and inferences from presentation in upgrad live class given by [Shivam Garg] ( https://www.linkedin.com/in/shivam-garg-0494a2ab )
 
 ## Glossary :
 
